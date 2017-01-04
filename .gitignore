@@ -1,0 +1,8 @@
+instance/
+*.swp
+*.py[cod]
+__pycache__/
+env/
+pip-log.txt
+.webassets-cache
+
